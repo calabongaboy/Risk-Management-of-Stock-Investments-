@@ -1,0 +1,1 @@
+●	In this project, I used Python to collect real world stock data of several different assets to build up an investment portfolio, and applied an optimization algorithm to determine an investment strategy which minimizes the investment risk.
